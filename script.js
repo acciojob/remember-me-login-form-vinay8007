@@ -33,6 +33,6 @@ existingBnt.addEventListener("click", function(){
 	const savedUser = localStorage.getItem("username");
 
 	if(savedUser){
-		alert(`Logged in as ${savedUser}`);
+		alert(`Logged in as ${saved username}`);
 	}
 })
